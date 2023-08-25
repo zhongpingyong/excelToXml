@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary>
+    <Material name="Algo-5W-ABS">
+        <Entry Thickness="3.0000" Desc="说明">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="ALA1切割/3.0000/说明"/>
+                <maxPower Value="88"/>
+                <maxPower2 Value="20"/>
+                <speed Value="166.667"/>
+                <numPasses Value="55"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+	    <Entry Thickness="4.0000" Desc="说明">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="ALA1切割/3.0000/说明"/>
+                <maxPower Value="88"/>
+                <maxPower2 Value="20"/>
+                <speed Value="166.667"/>
+                <numPasses Value="55"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+
+    <Material name="Algo-10W-ABS">
+        <Entry Thickness="3.0000" Desc="说明">
+            <CutSetting type="Cut">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="ALA1切割/3.0000/说明"/>
+                <maxPower Value="88"/>
+                <maxPower2 Value="20"/>
+                <speed Value="166.667"/>
+                <numPasses Value="55"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+
+
+    <Material name="Algo-5W-ABS">
+        <Entry Thickness="-1.0000" Desc="说明" NoThickTitle="雕刻">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="ALA1雕刻/雕刻/说明"/>
+                <minPower Value="0"/>
+                <maxPower Value="99"/>
+                <maxPower2 Value="20"/>
+                <speed Value="250"/>
+                <numPasses Value="2"/>
+                <dotSpacing Value="0"/>
+                <scanOpt Value="byGroup"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="1"/>
+                <interval Value="0.2"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+                <ditherMode Value="grayscale"/>
+                <dpi Value="127"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+    <Material name="Algo-5W-Wood">
+        <Entry Thickness="-1.0000" Desc="说明" NoThickTitle="雕刻">
+            <CutSetting type="Image">
+                <index Value="0"/>
+                <name Value=""/>
+                <LinkPath Value="ALA1雕刻/雕刻/说明"/>
+                <minPower Value="0"/>
+                <maxPower Value="99"/>
+                <maxPower2 Value="20"/>
+                <speed Value="250"/>
+                <numPasses Value="2"/>
+                <dotSpacing Value="0"/>
+                <scanOpt Value="byGroup"/>
+                <overscan Value="0"/>
+                <overscanPercent Value="1"/>
+                <interval Value="0.2"/>
+                <priority Value="0"/>
+                <tabCount Value="1"/>
+                <tabCountMax Value="1"/>
+                <ditherMode Value="grayscale"/>
+                <dpi Value="127"/>
+            </CutSetting>
+        </Entry>
+    </Material>
+</LightBurnLibrary>
