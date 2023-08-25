@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "xlsx": "^0.18.5",
+    "xmlbuilder2": "^3.1.1"
+  },
+  "scripts": {
+    "ExcelToXml": "node ExcelToXml.js ./excelFile/input.xlsx ./xmlFile/output.xml",
+    "ExcelToXml2": "node ExcelToXml2.js ./excelFile/input.xlsx ./xmlFile/output.xml"
+  }
+}
