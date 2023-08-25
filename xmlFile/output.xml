@@ -1,0 +1,3523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LightBurnLibrary>
+  <Material name="ALA1 ABS">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 ABS/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Bamboo">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Bamboo/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Birch Plywood">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Birch Plywood/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="166.66666666666666"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Black Cardboard">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Black Cardboard/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Coated Duplex Board">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Coated Duplex Board/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 coated_metal_card">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 coated_metal_card/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 cold rolled sheet">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 cold rolled sheet/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.333333333333336"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 colored_a4_Paper">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 colored_a4_Paper/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Denim">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Denim/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 dry leaves">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 dry leaves/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Eucalyptus plywood">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Eucalyptus plywood/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="166.66666666666666"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Green Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Green Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 leather">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 leather/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 MDF">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 MDF/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="250"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Non woven fabrics (dark color)">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Non woven fabrics (dark color)/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Orange Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Orange Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 paperboard">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 paperboard/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="250"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 poly_vinyl_chloride">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 poly_vinyl_chloride/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Red Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Red Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 rubber">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 rubber/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Stainless Steel">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Stainless Steel/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="50"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 White Cardboard">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 White Cardboard/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="250"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Yellow Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Yellow Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 ABS">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 ABS/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Bamboo">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Bamboo/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="416.6666666666667"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Birch Plywood">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Birch Plywood/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="416.6666666666667"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Black Cardboard">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Black Cardboard/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Coated Duplex Board">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Coated Duplex Board/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 coated_metal_card">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 coated_metal_card/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 cold rolled sheet">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 cold rolled sheet/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.333333333333336"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 colored_a4_Paper">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 colored_a4_Paper/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="833.3333333333334"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Denim">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Denim/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 dry leaves">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 dry leaves/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Eucalyptus plywood">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Eucalyptus plywood/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="250"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Green Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Green Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 leather">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 leather/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="833.3333333333334"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 MDF">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 MDF/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="666.6666666666666"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Non woven fabrics (dark color)">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Non woven fabrics (dark color)/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Orange Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Orange Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 paperboard">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 paperboard/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="666.6666666666666"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="250"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="416.6666666666667"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 poly_vinyl_chloride">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 poly_vinyl_chloride/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Red Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Red Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 rubber">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 rubber/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="500"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Stainless Steel">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Stainless Steel/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="50"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 White Cardboard">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 White Cardboard/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="250"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Yellow Acrylic">
+    <Entry Thickness="-1" Desc="--" NoThickTitle="Engrave">
+      <CutSetting type="Image">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Yellow Acrylic/Engrave/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="333.3333333333333"/>
+        <numPasses Value="-"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 ABS">
+    <Entry Thickness="1" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 ABS/1/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 ABS">
+    <Entry Thickness="0.8" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 ABS/0.8/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="20"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 ABS">
+    <Entry Thickness="2" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 ABS/2/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="11.666666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 ABS">
+    <Entry Thickness="3" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 ABS/3/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="6.666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 ABS">
+    <Entry Thickness="4" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 ABS/4/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 ABS">
+    <Entry Thickness="6" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 ABS/6/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="5" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/5/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="6" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/6/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="8" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/8/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="10" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/10/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="15" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/15/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="20" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/20/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="25" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/25/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="10"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="30" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/30/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="10"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 acrylic">
+    <Entry Thickness="45" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 acrylic/45/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="15"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Bamboo">
+    <Entry Thickness="8.5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Bamboo/8.5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="11.666666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="6" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/6/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="8" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/8/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="13" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/13/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="14" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/14/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="15" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/15/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Basswood">
+    <Entry Thickness="20" Desc="Drop the focal length by 1mm" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Basswood/20/Drop the focal length by 1mm"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="15"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Birch Plywood">
+    <Entry Thickness="4" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Birch Plywood/4/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="6.666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Birch Plywood">
+    <Entry Thickness="6" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Birch Plywood/6/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Birch Plywood">
+    <Entry Thickness="9" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Birch Plywood/9/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Birch Plywood">
+    <Entry Thickness="12" Desc="The bottom of the cut is slightly burnt" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Birch Plywood/12/The bottom of the cut is slightly burnt"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Black Cardboard">
+    <Entry Thickness="1" Desc="There is a slight yellowing next to the cutting path" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Black Cardboard/1/There is a slight yellowing next to the cutting path"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="18.333333333333332"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Black Cardboard">
+    <Entry Thickness="2.5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Black Cardboard/2.5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Coated Duplex Board">
+    <Entry Thickness="1" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Coated Duplex Board/1/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="18.333333333333332"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Coated Duplex Board">
+    <Entry Thickness="2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Coated Duplex Board/2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 colored_a4_Paper">
+    <Entry Thickness="0.2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 colored_a4_Paper/0.2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="166.66666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Denim">
+    <Entry Thickness="0.7" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Denim/0.7/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="30"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Denim">
+    <Entry Thickness="0.8" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Denim/0.8/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="30"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Eucalyptus plywood">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Eucalyptus plywood/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Eucalyptus plywood">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Eucalyptus plywood/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Eucalyptus plywood">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Eucalyptus plywood/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Eucalyptus plywood">
+    <Entry Thickness="15" Desc="The bottom of the cut is slightly burnt" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Eucalyptus plywood/15/The bottom of the cut is slightly burnt"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="6"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Green Acrylic">
+    <Entry Thickness="3" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Green Acrylic/3/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Green Acrylic">
+    <Entry Thickness="5" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Green Acrylic/5/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Green Acrylic">
+    <Entry Thickness="8" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Green Acrylic/8/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 leather">
+    <Entry Thickness="1.5" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 leather/1.5/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 leather">
+    <Entry Thickness="2" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 leather/2/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 MDF">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 MDF/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 MDF">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 MDF/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 MDF">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 MDF/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="6"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 non_woven_fabrics">
+    <Entry Thickness="0.6" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 non_woven_fabrics/0.6/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.333333333333336"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 non_woven_fabrics">
+    <Entry Thickness="0.6" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 non_woven_fabrics/0.6/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="16.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 paperboard">
+    <Entry Thickness="1" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 paperboard/1/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="20"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 paperboard">
+    <Entry Thickness="2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 paperboard/2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="8.333333333333334"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 paperboard">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 paperboard/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 paperboard">
+    <Entry Thickness="6" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 paperboard/6/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 paperboard">
+    <Entry Thickness="2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 paperboard/2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.333333333333336"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 paperboard">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 paperboard/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="16.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="16.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="11.666666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="8" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/8/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="8.333333333333334"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="15" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/15/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Paulownia Plank">
+    <Entry Thickness="20" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Paulownia Plank/20/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="15" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/15/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="19" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/19/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="20" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/20/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 pine_board">
+    <Entry Thickness="30" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 pine_board/30/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="10"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 poly_vinyl_chloride">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 poly_vinyl_chloride/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="26.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 poly_vinyl_chloride">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 poly_vinyl_chloride/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="15"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 poly_vinyl_chloride">
+    <Entry Thickness="15" Desc="The bottom of the cut is slightly burnt" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 poly_vinyl_chloride/15/The bottom of the cut is slightly burnt"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Red Acrylic">
+    <Entry Thickness="3" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Red Acrylic/3/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Red Acrylic">
+    <Entry Thickness="5" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Red Acrylic/5/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Red Acrylic">
+    <Entry Thickness="10" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Red Acrylic/10/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="6"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 rubber">
+    <Entry Thickness="1" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 rubber/1/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="6.666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 White Cardboard">
+    <Entry Thickness="1" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 White Cardboard/1/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="18.333333333333332"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 White Cardboard">
+    <Entry Thickness="2.5" Desc="There is a slight yellowing next to the cutting path" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 White Cardboard/2.5/There is a slight yellowing next to the cutting path"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 White Cardboard">
+    <Entry Thickness="3" Desc="There is a slight yellowing next to the cutting path" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 White Cardboard/3/There is a slight yellowing next to the cutting path"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Yellow Acrylic">
+    <Entry Thickness="3" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Yellow Acrylic/3/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALA1 Yellow Acrylic">
+    <Entry Thickness="5" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALA1 Yellow Acrylic/5/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 ABS">
+    <Entry Thickness="1" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 ABS/1/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 ABS">
+    <Entry Thickness="0.8" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 ABS/0.8/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="20"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 ABS">
+    <Entry Thickness="2" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 ABS/2/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="11.666666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 ABS">
+    <Entry Thickness="3" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 ABS/3/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="6.666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 ABS">
+    <Entry Thickness="4" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 ABS/4/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 ABS">
+    <Entry Thickness="6" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 ABS/6/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="5" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/5/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="6" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/6/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="8" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/8/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="10" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/10/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="15" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/15/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="20" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/20/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="25" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/25/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="10"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="30" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/30/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="10"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 acrylic">
+    <Entry Thickness="45" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 acrylic/45/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="15"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Bamboo">
+    <Entry Thickness="8.5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Bamboo/8.5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="11.666666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="6" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/6/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="8" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/8/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="13" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/13/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="14" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/14/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="15" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/15/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Basswood">
+    <Entry Thickness="20" Desc="Drop the focal length by 1mm" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Basswood/20/Drop the focal length by 1mm"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="15"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Birch Plywood">
+    <Entry Thickness="4" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Birch Plywood/4/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="6.666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Birch Plywood">
+    <Entry Thickness="6" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Birch Plywood/6/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Birch Plywood">
+    <Entry Thickness="9" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Birch Plywood/9/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Birch Plywood">
+    <Entry Thickness="12" Desc="The bottom of the cut is slightly burnt" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Birch Plywood/12/The bottom of the cut is slightly burnt"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Black Cardboard">
+    <Entry Thickness="1" Desc="There is a slight yellowing next to the cutting path" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Black Cardboard/1/There is a slight yellowing next to the cutting path"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="18.333333333333332"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Black Cardboard">
+    <Entry Thickness="2.5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Black Cardboard/2.5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Coated Duplex Board">
+    <Entry Thickness="1" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Coated Duplex Board/1/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="18.333333333333332"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Coated Duplex Board">
+    <Entry Thickness="2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Coated Duplex Board/2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 colored_a4_Paper">
+    <Entry Thickness="0.2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 colored_a4_Paper/0.2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="166.66666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Denim">
+    <Entry Thickness="0.7" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Denim/0.7/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="30"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Denim">
+    <Entry Thickness="0.8" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Denim/0.8/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="30"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Eucalyptus plywood">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Eucalyptus plywood/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Eucalyptus plywood">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Eucalyptus plywood/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Eucalyptus plywood">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Eucalyptus plywood/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Eucalyptus plywood">
+    <Entry Thickness="15" Desc="The bottom of the cut is slightly burnt" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Eucalyptus plywood/15/The bottom of the cut is slightly burnt"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="6"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Green Acrylic">
+    <Entry Thickness="3" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Green Acrylic/3/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Green Acrylic">
+    <Entry Thickness="5" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Green Acrylic/5/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Green Acrylic">
+    <Entry Thickness="8" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Green Acrylic/8/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="4"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 leather">
+    <Entry Thickness="1.5" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 leather/1.5/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 leather">
+    <Entry Thickness="2" Desc="There is an irritating odor when cutting, so cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 leather/2/There is an irritating odor when cutting, so cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 MDF">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 MDF/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 MDF">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 MDF/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 MDF">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 MDF/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="6"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Non woven fabrics">
+    <Entry Thickness="0.6" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Non woven fabrics/0.6/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="16.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Non woven fabrics (dark color)">
+    <Entry Thickness="0.6" Desc="Cut edges neatly, but slight burn marks can be seen" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Non woven fabrics (dark color)/0.6/Cut edges neatly, but slight burn marks can be seen"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.333333333333336"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 paperboard">
+    <Entry Thickness="1" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 paperboard/1/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="20"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 paperboard">
+    <Entry Thickness="2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 paperboard/2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="8.333333333333334"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 paperboard">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 paperboard/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 paperboard">
+    <Entry Thickness="6" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 paperboard/6/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 paperboard">
+    <Entry Thickness="2" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 paperboard/2/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="33.333333333333336"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 paperboard">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 paperboard/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="16.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="16.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="11.666666666666666"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="8" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/8/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="8.333333333333334"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="15" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/15/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Paulownia Plank">
+    <Entry Thickness="20" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Paulownia Plank/20/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="10" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/10/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="12" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/12/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="15" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/15/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="19" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/19/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="20" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/20/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 pine_board">
+    <Entry Thickness="30" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 pine_board/30/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="10"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 poly_vinyl_chloride">
+    <Entry Thickness="3" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 poly_vinyl_chloride/3/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="26.666666666666668"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 poly_vinyl_chloride">
+    <Entry Thickness="5" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 poly_vinyl_chloride/5/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="15"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 poly_vinyl_chloride">
+    <Entry Thickness="15" Desc="The bottom of the cut is slightly burnt" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 poly_vinyl_chloride/15/The bottom of the cut is slightly burnt"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="5"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Red Acrylic">
+    <Entry Thickness="3" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Red Acrylic/3/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Red Acrylic">
+    <Entry Thickness="5" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Red Acrylic/5/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Red Acrylic">
+    <Entry Thickness="10" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Red Acrylic/10/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="3.3333333333333335"/>
+        <numPasses Value="6"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 rubber">
+    <Entry Thickness="1" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 rubber/1/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="6.666666666666667"/>
+        <numPasses Value="3"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 White Cardboard">
+    <Entry Thickness="1" Desc="--" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 White Cardboard/1/--"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="18.333333333333332"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 White Cardboard">
+    <Entry Thickness="2.5" Desc="There is a slight yellowing next to the cutting path" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 White Cardboard/2.5/There is a slight yellowing next to the cutting path"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 White Cardboard">
+    <Entry Thickness="3" Desc="There is a slight yellowing next to the cutting path" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 White Cardboard/3/There is a slight yellowing next to the cutting path"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="10"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Yellow Acrylic">
+    <Entry Thickness="3" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Yellow Acrylic/3/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="1"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+  <Material name="ALD1 Yellow Acrylic">
+    <Entry Thickness="5" Desc="There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution" NoThickTitle="">
+      <CutSetting type="Cut">
+        <index Value="0"/>
+        <name/>
+        <LinkPath Value="ALD1 Yellow Acrylic/5/There are burn marks along the cutting path and a pungent odor is emitted during the cutting process. Cut with caution"/>
+        <maxPower Value="100"/>
+        <maxPower2 Value="20"/>
+        <speed Value="1.6666666666666667"/>
+        <numPasses Value="2"/>
+        <priority Value="0"/>
+        <tabCount Value="1"/>
+        <tabCountMax Value="1"/>
+      </CutSetting>
+    </Entry>
+  </Material>
+</LightBurnLibrary>
